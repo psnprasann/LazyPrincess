@@ -8,5 +8,5 @@ else
 fi
 cd /LazyPrincess
 pip3 install -U -r requirements.txt
-echo "Starting Bot...."
+echo "Starting LazyPrincessBot ...."
 python3 bot.py
